@@ -1,0 +1,7 @@
+flask-migrate
+babel
+python-dateutil
+flask-moment
+flask-wtf
+flask_sqlalchemy
+SQLAlchemy==1.4.40
